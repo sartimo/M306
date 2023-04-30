@@ -1,0 +1,4 @@
+package crait
+
+const version = "0.0.1beta"
+var build = "nonrelease"
