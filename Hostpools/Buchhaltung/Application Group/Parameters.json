@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "applicationgroups_HP_Buchhaltung_DAG_name": {
+            "value": null
+        },
+        "hostpools_HP_Buchhaltung_externalid": {
+            "value": null
+        }
+    }
+}
