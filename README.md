@@ -4,6 +4,7 @@
 
 
 ```bash
+az login
 az deployment group create \
   --name ExampleDeployment \
   --resource-group ExampleGroup \
